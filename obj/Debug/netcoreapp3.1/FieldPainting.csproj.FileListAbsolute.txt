@@ -1,0 +1,13 @@
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\bin\Debug\netcoreapp3.1\FieldPainting.exe
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\bin\Debug\netcoreapp3.1\FieldPainting.deps.json
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\bin\Debug\netcoreapp3.1\FieldPainting.runtimeconfig.json
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\bin\Debug\netcoreapp3.1\FieldPainting.runtimeconfig.dev.json
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\bin\Debug\netcoreapp3.1\FieldPainting.dll
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\bin\Debug\netcoreapp3.1\FieldPainting.pdb
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.csprojAssemblyReference.cache
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.AssemblyInfoInputs.cache
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.AssemblyInfo.cs
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.csproj.CoreCompileInputs.cache
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.dll
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.pdb
+C:\Users\geoff\OneDrive\Documents\GitHub\FieldPainting\obj\Debug\netcoreapp3.1\FieldPainting.genruntimeconfig.cache
